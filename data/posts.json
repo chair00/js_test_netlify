@@ -1,0 +1,14 @@
+[
+    {
+        "title": "First Blog Post",
+        "url": "/post1.html"
+    },
+    {
+        "title": "Second Blog Post",
+        "url": "/post2.html"
+    },
+    {
+        "title": "Third Blog Post",
+        "url": "/post3.html"
+    }
+]
